@@ -1,0 +1,1 @@
+"""User domain slice: entities and repository port. No I/O or framework."""
